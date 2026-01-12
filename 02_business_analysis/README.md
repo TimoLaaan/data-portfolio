@@ -1,28 +1,26 @@
-# Business Analysis – House Sales
+# Business Analysis – Data Scientist Certification Final Exam - Recipe Site Traffic
 
 ## Objective
-The goal of this project is to explore and analyze a real-world dataset
-to uncover patterns, trends and actionable insights.
+The goal of this project was to answer the two main business questions stated below and presenting it to a stakeholder (The written report and presentation were given to DataCamp employees and were both assessed with 'Pass' awarding me the 'Data Scientist' certification)
 
 ## Dataset
-- Source: DataCamp Project part of the 'Data Analysis in Python Career Track'
-- Description: Project includes a csv-file showing information about crime occurance in LA
+- Source: DataCamp final exam of the 'Data Scientist Certification'
+- Description: Project includes a csv-file showing information about recipe properties and popularity
 
 ## Key Questions & Tasks
-- Which hour has the highest frequency of crimes?
-- Which area has the largest frequency of night crimes (crimes committed between 10pm and 3:59am)?
-- Identify the number of crimes committed against victims of different age groups. Create a new column showing the victim age groups.
+- 'Predict which recipes will be popular 80% of the time'
+- 'Minimize the chance of showing unpopular recipes on our website'
 
 ## Tools & Libraries
 - Python
 - pandas
-- numpy
+- sklearn
 - matplotlib / seaborn
 
 ## Key Insights
-- Most crimes happen around midday
-- The least amount of crimes happen around early morning (1AM - 9AM)
-- Central LA is the peak night crime location
+- Data cleaning process showed strong flaws in data quality making the analysis difficult
+- The baseline model suggests vegetable, potato, and pork recipes are more popular on your website, so consider taking that into account when deciding what recipes to show
+- Use the models I created to predict popularity of recipes to aid the process of deciding which recipes to show!
 
 ## Files
-- `crime_in_LA.ipynb` – complete analysis and visualizations
+- `exam_notebook.ipynb` – complete analysis and visualizations
