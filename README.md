@@ -15,7 +15,7 @@ as a Junior Data Analyst / Junior Data Scientist.
 
 ### 1. Exploratory Data Analysis
 - Analysis of real-world datasets
-- Focus on data cleaning, visualization and insights
+- Focus on data insights
 ➡️ See folder: `01_exploratory_data_analysis`
 
 ### 2. Business Analysis
@@ -23,9 +23,9 @@ as a Junior Data Analyst / Junior Data Scientist.
 - KPI analysis and recommendations
 ➡️ See folder: `02_business_analysis`
 
-### 3. Machine Learning
+### 3. Machine Learning on a Real-World Project
 - Introductory ML models (regression & classification)
-- Emphasis on interpretability
+- Focus on data cleaning, presentability of insights, and correct interpretation of findings
 ➡️ See folder: `03_machine_learning`
 
 ## About Me
