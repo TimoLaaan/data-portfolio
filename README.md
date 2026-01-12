@@ -18,15 +18,11 @@ as a Junior Data Analyst / Junior Data Scientist.
 - Focus on data insights
 ➡️ See folder: `01_exploratory_data_analysis`
 
-### 2. Business Analysis
-- Data-driven business questions
-- KPI analysis and recommendations
+### 2. Business Analysis through Machine Learning on a Real-World Project (combination of many things showing my skills the best!)
+- Introductory ML models (classification)
+- Data cleaning & validation
+- Presenting insights, interpreting findings, and giving business recommendations
 ➡️ See folder: `02_business_analysis`
-
-### 3. Machine Learning on a Real-World Project (Combination of many things showing my skills the best!)
-- Introductory ML models (regression & classification)
-- Focus on data cleaning, presentability of insights, and correct interpretation of findings
-➡️ See folder: `03_machine_learning`
 
 ## About Me
 Aspiring Junior Data Analyst / Data Scientist with a strong focus on Python.
