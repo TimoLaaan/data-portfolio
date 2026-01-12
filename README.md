@@ -23,7 +23,7 @@ as a Junior Data Analyst / Junior Data Scientist.
 - KPI analysis and recommendations
 ➡️ See folder: `02_business_analysis`
 
-### 3. Machine Learning on a Real-World Project
+### 3. Machine Learning on a Real-World Project (Combination of many things showing my skills the best!)
 - Introductory ML models (regression & classification)
 - Focus on data cleaning, presentability of insights, and correct interpretation of findings
 ➡️ See folder: `03_machine_learning`
